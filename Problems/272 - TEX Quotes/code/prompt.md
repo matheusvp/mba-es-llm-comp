@@ -1,6 +1,6 @@
 # UVa 272 - TEX Quotes
 
-Write a complete, standalone program in [INSERT LANGUAGE HERE] to solve the "TEX Quotes" problem. Do not use any external libraries or frameworks; rely only on the standard library.
+Write a complete, standalone program in Python to solve the "TEX Quotes" problem. Do not use any external libraries or frameworks; rely only on the standard library.
 
 **Objective:**
 Read a raw text input and replace all standard double-quote characters (`"`) with LaTeX-style directional quotes. 

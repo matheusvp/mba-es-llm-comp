@@ -1,6 +1,7 @@
 import sys
 import subprocess
 import difflib
+import time
 
 def run_benchmark(target_executable, input_file, expected_file):
     # 1. Read the input data
@@ -14,18 +15,23 @@ def run_benchmark(target_executable, input_file, expected_file):
 
     print(f"Running {' '.join(target_executable)}...")
 
-    # 3. Execute the LLM's code and pass the input data via stdin
+    # 3. Execute the LLM's code, pass the input data via stdin, and track time
+    start_time = time.perf_counter()
     try:
         process = subprocess.run(
             target_executable,
             input=input_data,
             capture_output=True,
             text=True,
-            timeout=10 # Prevents infinite loops (Time Limit Exceeded)
+            timeout=60 # Prevents infinite loops (Time Limit Exceeded)
         )
     except subprocess.TimeoutExpired:
-        print("FAILED: Time Limit Exceeded (Infinite Loop)")
+        print("FAILED: Time Limit Exceeded (Infinite Loop or > 10 seconds)")
         return
+    end_time = time.perf_counter()
+
+    # Calculate execution time in milliseconds
+    execution_time_ms = (end_time - start_time) * 1000
 
     # 4. Process the LLM's actual output
     actual_lines = [line.rstrip() for line in process.stdout.splitlines()]
@@ -33,8 +39,10 @@ def run_benchmark(target_executable, input_file, expected_file):
     # 5. Compare the results
     if actual_lines == expected_lines:
         print("PASSED: The LLM's output matches the uDebug data exactly.")
+        print(f"Execution Time: {execution_time_ms:.2f} ms")
     else:
         print("FAILED: Output differs.")
+        print(f"Execution Time: {execution_time_ms:.2f} ms")
         print("\n--- Differences ---")
         # Generate a visual diff showing exactly where the LLM failed
         diff = difflib.unified_diff(

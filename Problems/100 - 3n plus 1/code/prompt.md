@@ -1,6 +1,6 @@
 # UVa 100 - The 3n + 1 Problem
 
-Write a complete, standalone program in [INSERT LANGUAGE HERE] to solve "The 3n + 1 Problem". Do not use any external libraries or frameworks; rely only on the standard library.
+Write a complete, standalone program in Python to solve "The 3n + 1 Problem". Do not use any external libraries or frameworks; rely only on the standard library.
 
 **Objective:**
 Given a series of pairs of integers `i` and `j`, determine the maximum cycle length over all integers between and including `i` and `j` using the Collatz algorithm, and print the results.
