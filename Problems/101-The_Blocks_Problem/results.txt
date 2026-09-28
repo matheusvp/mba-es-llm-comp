@@ -1,4 +1,5 @@
-claude_haiku4_5.py
+Model: Claude Haiku 4.5
+File: claude_haiku4_5.py
 Lines of code: 85
 Comment Lines: 0
 sample_input.txt
@@ -20,7 +21,8 @@ UVA
     |- Status: Pass
     |- Execution: 30 30 30 | AVG: 30
 
-claude_opus5_5_medium.py
+Model: Claude Opus 5.5 medium
+File: claude_opus5_5_medium.py
 Lines of code: 55
 Comment Lines: 0
 sample_input.txt
@@ -42,7 +44,8 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10 | AVG: 10
 
-claude_opus5_medium.py
+Model: Claude Opus 5 medium
+File: claude_opus5_medium.py
 Lines of code: 56
 Comment Lines: 0
 sample_input.txt
@@ -64,7 +67,8 @@ UVA
     |- Status: Pass
     |- Execution: 40 40 40 | AVG: 40
 
-claude_opus_5_5_max.py
+Model: Claude Opus 5.5 max
+File: claude_opus_5_5_max.py
 Lines of code: 72
 Comment Lines: 7
 sample_input.txt
@@ -86,7 +90,8 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10 | AVG: 10
 
-claude_sonnet5_medium.py
+Model: Claude Sonnet 5 medium
+File: claude_sonnet5_medium.py
 Lines of code: 63
 Comment Lines: 1
 sample_input.txt
@@ -108,7 +113,8 @@ UVA
     |- Status: Pass
     |- Execution: 30 30 50 | AVG: 37
 
-gemini3_1_pro.py
+Model: Gemini 3.1 pro
+File: gemini3_1_pro.py
 Lines of code: 45
 Comment Lines: 0
 sample_input.txt
@@ -130,7 +136,8 @@ UVA
     |- Status: Pass
     |- Execution: 30 30 20 | AVG: 27
 
-gemini3_6_flash.py
+Model: Gemini 3.6 flash
+File: gemini3_6_flash.py
 Lines of code: 50
 Comment Lines: 5
 sample_input.txt
@@ -152,7 +159,8 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10 | AVG: 10
 
-gemini3_7_flash.py
+Model: Gemini 3.7 flash
+File: gemini3_7_flash.py
 Lines of code: 55
 Comment Lines: 0
 sample_input.txt
@@ -174,7 +182,8 @@ UVA
     |- Status: Pass
     |- Execution: 20 20 20 | AVG: 20
 
-gemini3_8_flash.py
+Model: Gemini 3.8 flash
+File: gemini3_8_flash.py
 Lines of code: 65
 Comment Lines: 0
 sample_input.txt
@@ -196,7 +205,8 @@ UVA
     |- Status: Pass
     |- Execution: 30 30 30 | AVG: 30
 
-gpt_luna_5_6.py
+Model: GPT Luna 5.6
+File: gpt_luna_5_6.py
 Lines of code: 54
 Comment Lines: 14
 sample_input.txt
@@ -218,7 +228,8 @@ UVA
     |- Status: Fail - Run time error
     |- Execution (ms): NULL NULL NULL NULL NULL | AVG: NULL
 
-zai_glm_5_3_low.py
+Model: ZAI GLM 5.3 low
+File: zai_glm_5_3_low.py
 Lines of code: 51
 Comment Lines: 1
 sample_input.txt
@@ -240,7 +251,8 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10 | AVG: 10
 
-zai_glm_5_3_max.py
+Model: ZAI GLM 5.3 max
+File: zai_glm_5_3_max.py
 Lines of code: 68
 Comment Lines: 5
 sample_input.txt
