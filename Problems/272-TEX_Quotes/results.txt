@@ -18,7 +18,7 @@ UVA
     |- Status: Pass
     |- Execution: 20 10 10 | AVG: 13
 
-Model: Claude Opus 5.5 medium
+Model: Claude Opus 5.5 Medium Effort
 File: claude_opus5_5_medium.py
 Lines of code: 18
 Comment Lines: 0
@@ -38,7 +38,7 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10 | AVG: 10
 
-Model: Claude Opus 5 medium
+Model: Claude Opus 5 Medium Effort
 File: claude_opus5_medium.py
 Lines of code: 14
 Comment Lines: 0
@@ -58,7 +58,7 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10 | AVG: 10
 
-Model: Claude Opus 5.5 max
+Model: Claude Opus 5.5 Max Effort
 File: claude_opus_5_5_max.py
 Lines of code: 16
 Comment Lines: 1
@@ -78,7 +78,7 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10  | AVG: 10
 
-Model: Claude Sonnet 5 medium
+Model: Claude Sonnet 5 Medium Effort
 File: claude_sonnet5_medium.py
 Lines of code: 14
 Comment Lines: 0
@@ -98,7 +98,7 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10 | AVG: 10
 
-Model: Gemini 3.1 pro
+Model: Gemini 3.1 Pro
 File: gemini3_1_pro.py
 Lines of code: 17
 Comment Lines: 0
@@ -118,7 +118,7 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10 | AVG: 10
 
-Model: Gemini 3.6 flash
+Model: Gemini 3.6 Flash
 File: gemini3_6_flash.py
 Lines of code: 17
 Comment Lines: 0
@@ -138,7 +138,7 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10 | AVG: 10
 
-Model: Gemini 3.7 flash
+Model: Gemini 3.7 Flash
 File: gemini3_7_flash.py
 Lines of code: 19
 Comment Lines: 0
@@ -158,7 +158,7 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10 | AVG: 10
 
-Model: Gemini 3.8 flash
+Model: Gemini 3.8 Flash
 File: gemini3_8_flash.py
 Lines of code: 17
 Comment Lines: 0
@@ -198,7 +198,7 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10 | AVG: 10
 
-Model: ZAI GLM 5.3 low
+Model: ZAI GLM 5.3 Low Reasoning
 File: zai_glm_5_3_low.py
 Lines of code: 16
 Comment Lines: 0
@@ -218,7 +218,7 @@ UVA
     |- Status: Pass
     |- Execution: 10 10 10 | AVG: 10
 
-Model: ZAI GLM 5.3 max
+Model: ZAI GLM 5.3 Max Reasoning
 File: zai_glm_5_3_max.py
 Lines of code: 23
 Comment Lines: 11

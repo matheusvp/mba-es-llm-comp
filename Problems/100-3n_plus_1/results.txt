@@ -12,7 +12,7 @@ UVA
     |- Status: Pass
     |-Execution (ms): 470 490 430 | AVG: 463
 
-Model: Claude Opus 5.5 medium
+Model: Claude Opus 5.5 Medium Effort
 File: claude_opus5_5_medium.py
 Lines of code: 33
 Comment Lines: 0
@@ -26,7 +26,7 @@ UVA
     |- Status: Pass
     |-Execution (ms): 410 410 420 | AVG: 413
 
-Model: Claude Opus 5 medium
+Model: Claude Opus 5 Medium Effort
 File: claude_opus5_medium.py
 Lines of code: 29
 Comment Lines: 0
@@ -40,7 +40,7 @@ UVA
     |- Status: Pass
     |-Execution (ms): 300 320 310 | AVG: 310
 
-Model: Claude Opus 5.5 max
+Model: Claude Opus 5.5 Max Effort
 File: claude_opus_5_5_max.py
 Lines of code: 58
 Comment Lines: 9
@@ -54,7 +54,7 @@ UVA
     |- Status: Pass
     |-Execution (ms): 380 390 410 | AVG: 393
 
-Model: Claude Sonnet 5 medium
+Model: Claude Sonnet 5 Medium Effort
 File: claude_sonnet5_medium.py
 Lines of code: 32
 Comment Lines: 0
@@ -68,7 +68,7 @@ UVA
     |- Status: Pass
     |-Execution (ms): 930 950 960 | AVG: 947
 
-Model: Gemini 3.1 pro
+Model: Gemini 3.1 Pro
 File: gemini3_1_pro.py
 Lines of code: 31
 Comment Lines: 0
@@ -82,7 +82,7 @@ UVA
     |- Status: Pass
     |-Execution (ms): 240 240 240 | AVG: 240
 
-Model: Gemini 3.6 flash
+Model: Gemini 3.6 Flash
 File: gemini3_6_flash.py
 Lines of code: 32
 Comment Lines: 2
@@ -96,7 +96,7 @@ UVA
     |- Status: Pass
     |-Execution (ms): 250 270 260 | AVG: 260
 
-Model: Gemini 3.7 flash
+Model: Gemini 3.7 Flash
 File: gemini3_7_flash.py
 Lines of code: 34
 Comment Lines: 0
@@ -110,7 +110,7 @@ UVA
     |- Status: Pass
     |-Execution (ms): 810 810 770 | AVG: 796
 
-Model: Gemini 3.8 flash
+Model: Gemini 3.8 Flash
 File: gemini3_8_flash.py
 Lines of code: 35
 Comment Lines: 0
@@ -138,7 +138,7 @@ UVA
     |- Status: Time limit exceeded
     |-Execution (ms): NULL NULL NULL | AVG: NULL 
 
-Model: ZAI GLM 5.3 low
+Model: ZAI GLM 5.3 Low Reasoning
 File: zai_glm_5_3_low.py
 Lines of code: 29
 Comment Lines: 0
@@ -152,7 +152,7 @@ UVA
     |- Status: Pass
     |-Execution (ms): 660 760 730 | AVG: 717
 
-Model: ZAI GLM 5.3 max
+Model: ZAI GLM 5.3 Max Reasoning
 File: zai_glm_5_3_max.py
 Lines of code: 46
 Comment Lines: 0
