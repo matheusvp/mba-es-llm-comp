@@ -1,4 +1,4 @@
-aimport sys
+import sys
 
 
 def main():

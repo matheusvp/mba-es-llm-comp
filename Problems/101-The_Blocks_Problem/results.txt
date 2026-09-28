@@ -1,0 +1,263 @@
+claude_haiku4_5.py
+Lines of code: 85
+Comment Lines: 0
+sample_input.txt
+    |- Status: Pass
+    |- Execution (ms): 35.22 40.02 34.62 35.73 35.34 | AVG: 36.2
+input1.txt
+    |- Status: Pass
+    |- Execution (ms): 37.60 44.11 38.04 38.74 39.14 | AVG: 39.5
+input2.txt
+    |- Status: Pass
+    |- Execution (ms): 42.19 37.64 42.89 41.56 50.54 | AVG: 43.0
+input3.txt
+    |- Status: Pass
+    |- Execution (ms): 44.05 37.61 41.32 43.77 37.02 | AVG: 40.8
+input4.txt
+    |- Status: Pass
+    |- Execution (ms): 36.96 42.64 41.82 38.25 36.21 | AVG: 39.2
+UVA
+    |- Status: Pass
+    |- Execution: 30 30 30 | AVG: 30
+
+claude_opus5_5_medium.py
+Lines of code: 55
+Comment Lines: 0
+sample_input.txt
+    |- Status: Pass
+    |- Execution (ms): 36.35 52.17 32.38 35.27 35.17 | AVG: 38.3
+input1.txt
+    |- Status: Pass
+    |- Execution (ms): 37.43 35.60 35.71 33.62 37.72 | AVG: 36.0
+input2.txt
+    |- Status: Pass
+    |- Execution (ms): 36.03 50.69 36.71 34.70 34.48 | AVG: 38.5
+input3.txt
+    |- Status: Pass
+    |- Execution (ms): 33.67 33.38 37.61 39.04 36.53 | AVG: 36.0
+input4.txt
+    |- Status: Pass
+    |- Execution (ms): 37.44 60.16 38.02 39.08 38.10 | AVG: 42.6
+UVA
+    |- Status: Pass
+    |- Execution: 10 10 10 | AVG: 10
+
+claude_opus5_medium.py
+Lines of code: 56
+Comment Lines: 0
+sample_input.txt
+    |- Status: Pass
+    |- Execution (ms): 36.42 50.05 35.38 35.15 43.51 | AVG: 40.1
+input1.txt
+    |- Status: Pass
+    |- Execution (ms): 47.89 46.83 44.03 42.38 43.87 | AVG: 45.0
+input2.txt
+    |- Status: Pass
+    |- Execution (ms): 35.10 35.28 34.69 47.98 44.35 | AVG: 39.5
+input3.txt
+    |- Status: Pass
+    |- Execution (ms): 44.43 36.25 34.95 35.52 34.52 | AVG: 37.1
+input4.txt
+    |- Status: Pass
+    |- Execution (ms): 32.47 34.83 33.58 34.69 34.67 | AVG: 34.0
+UVA
+    |- Status: Pass
+    |- Execution: 40 40 40 | AVG: 40
+
+claude_opus_5_5_max.py
+Lines of code: 72
+Comment Lines: 7
+sample_input.txt
+    |- Status: Pass
+    |- Execution (ms): 35.88 35.10 34.32 32.76 34.53 | AVG: 34.5
+input1.txt
+    |- Status: Pass
+    |- Execution (ms): 37.00 39.98 35.46 33.27 35.39 | AVG: 36.2
+input2.txt
+    |- Status: Pass
+    |- Execution (ms): 39.89 33.78 33.95 33.54 34.91 | AVG: 35.2
+input3.txt
+    |- Status: Pass
+    |- Execution (ms): 35.87 36.03 34.41 34.75 34.94 | AVG: 35.2
+input4.txt
+    |- Status: Pass
+    |- Execution (ms): 35.35 33.54 36.70 33.73 34.62 | AVG: 34.8
+UVA
+    |- Status: Pass
+    |- Execution: 10 10 10 | AVG: 10
+
+claude_sonnet5_medium.py
+Lines of code: 63
+Comment Lines: 1
+sample_input.txt
+    |- Status: Pass
+    |- Execution (ms): 38.59 32.90 33.51 34.56 33.25 | AVG: 34.6
+input1.txt
+    |- Status: Pass
+    |- Execution (ms): 37.71 41.47 37.54 36.39 37.15 | AVG: 38.1
+input2.txt
+    |- Status: Pass
+    |- Execution (ms): 33.19 34.23 35.26 32.87 35.14 | AVG: 34.1
+input3.txt
+    |- Status: Pass
+    |- Execution (ms): 35.89 34.68 34.40 38.11 34.72 | AVG: 35.6
+input4.txt
+    |- Status: Pass
+    |- Execution (ms): 33.02 33.69 33.61 34.77 36.47 | AVG: 34.3
+UVA
+    |- Status: Pass
+    |- Execution: 30 30 50 | AVG: 37
+
+gemini3_1_pro.py
+Lines of code: 45
+Comment Lines: 0
+sample_input.txt
+    |- Status: Pass
+    |- Execution (ms): 34.91 34.58 36.56 33.64 36.16 | AVG: 35.2
+input1.txt
+    |- Status: Pass
+    |- Execution (ms): 35.84 38.37 40.06 37.61 36.95 | AVG: 37.8
+input2.txt
+    |- Status: Pass
+    |- Execution (ms): 37.04 39.02 38.67 32.79 34.48 | AVG: 36.4
+input3.txt
+    |- Status: Pass
+    |- Execution (ms): 35.26 32.94 36.78 34.83 33.26 | AVG: 34.6
+input4.txt
+    |- Status: Pass
+    |- Execution (ms): 33.30 34.93 35.04 31.94 33.09 | AVG: 33.7
+UVA
+    |- Status: Pass
+    |- Execution: 30 30 20 | AVG: 27
+
+gemini3_6_flash.py
+Lines of code: 50
+Comment Lines: 5
+sample_input.txt
+    |- Status: Pass
+    |- Execution (ms): 33.31 34.31 34.46 34.00 34.88 | AVG: 34.2
+input1.txt
+    |- Status: Pass
+    |- Execution (ms): 38.97 35.92 37.56 35.40 36.81 | AVG: 36.9
+input2.txt
+    |- Status: Pass
+    |- Execution (ms): 32.53 34.03 34.43 34.67 35.27 | AVG: 34.2
+input3.txt
+    |- Status: Pass
+    |- Execution (ms): 35.88 35.39 32.96 57.20 34.44 | AVG: 39.2
+input4.txt
+    |- Status: Pass
+    |- Execution (ms): 35.65 34.04 33.70 33.07 35.09 | AVG: 34.3
+UVA
+    |- Status: Pass
+    |- Execution: 10 10 10 | AVG: 10
+
+gemini3_7_flash.py
+Lines of code: 55
+Comment Lines: 0
+sample_input.txt
+    |- Status: Pass
+    |- Execution (ms): 35.87 34.40 35.35 34.60 33.54 | AVG: 34.8
+input1.txt
+    |- Status: Pass
+    |- Execution (ms): 38.99 38.58 37.33 35.86 37.52 | AVG: 37.7
+input2.txt
+    |- Status: Pass
+    |- Execution (ms): 37.01 32.47 35.69 34.75 40.45 | AVG: 36.1
+input3.txt
+    |- Status: Pass
+    |- Execution (ms): 37.98 34.04 34.57 34.64 35.40 | AVG: 35.3
+input4.txt
+    |- Status: Pass
+    |- Execution (ms): 34.21 34.88 34.63 32.70 34.22 | AVG: 34.1
+UVA
+    |- Status: Pass
+    |- Execution: 20 20 20 | AVG: 20
+
+gemini3_8_flash.py
+Lines of code: 65
+Comment Lines: 0
+sample_input.txt
+    |- Status: Pass
+    |- Execution (ms): 33.78 36.01 34.53 35.62 39.61 | AVG: 35.9
+input1.txt
+    |- Status: Pass
+    |- Execution (ms): 36.94 40.86 42.10 38.29 37.55 | AVG: 39.1
+input2.txt
+    |- Status: Pass
+    |- Execution (ms): 35.12 34.94 35.36 33.94 34.52 | AVG: 34.8
+input3.txt
+    |- Status: Pass
+    |- Execution (ms): 38.46 35.58 34.83 33.82 34.56 | AVG: 35.5
+input4.txt
+    |- Status: Pass
+    |- Execution (ms): 36.50 34.10 33.41 33.39 38.75 | AVG: 35.2
+UVA
+    |- Status: Pass
+    |- Execution: 30 30 30 | AVG: 30
+
+gpt_luna_5_6.py
+Lines of code: 54
+Comment Lines: 14
+sample_input.txt
+    |- Status: Fail
+    |- Execution (ms): NULL NULL NULL NULL NULL | AVG: NULL
+input1.txt
+    |- Status: Fail
+    |- Execution (ms): NULL NULL NULL NULL NULL | AVG: NULL
+input2.txt
+    |- Status: Fail
+    |- Execution (ms): NULL NULL NULL NULL NULL | AVG: NULL
+input3.txt
+    |- Status: Fail
+    |- Execution (ms): NULL NULL NULL NULL NULL | AVG: NULL
+input4.txt
+    |- Status: Fail
+    |- Execution (ms): NULL NULL NULL NULL NULL | AVG: NULL
+UVA
+    |- Status: Fail - Run time error
+    |- Execution (ms): NULL NULL NULL NULL NULL | AVG: NULL
+
+zai_glm_5_3_low.py
+Lines of code: 51
+Comment Lines: 1
+sample_input.txt
+    |- Status: Pass
+    |- Execution (ms): 38.01 34.68 49.34 36.64 33.35 | AVG: 38.4
+input1.txt
+    |- Status: Pass
+    |- Execution (ms): 34.04 36.20 36.39 37.70 39.68 | AVG: 36.8
+input2.txt
+    |- Status: Pass
+    |- Execution (ms): 32.84 32.58 32.90 35.82 35.28 | AVG: 33.9
+input3.txt
+    |- Status: Pass
+    |- Execution (ms): 38.10 34.04 34.75 34.67 33.94 | AVG: 35.1
+input4.txt
+    |- Status: Pass
+    |- Execution (ms): 36.41 33.03 34.02 34.97 34.69 | AVG: 34.6
+UVA
+    |- Status: Pass
+    |- Execution: 10 10 10 | AVG: 10
+
+zai_glm_5_3_max.py
+Lines of code: 68
+Comment Lines: 5
+sample_input.txt
+    |- Status: Pass
+    |- Execution (ms): 37.91 33.13 35.76 39.85 36.41 | AVG: 36.6
+input1.txt
+    |- Status: Pass
+    |- Execution (ms): 39.04 35.75 33.67 35.56 34.31 | AVG: 35.7
+input2.txt
+    |- Status: Pass
+    |- Execution (ms): 33.19 35.20 35.86 32.81 34.74 | AVG: 34.4
+input3.txt
+    |- Status: Pass
+    |- Execution (ms): 35.42 34.55 35.85 37.39 34.18 | AVG: 35.5
+input4.txt
+    |- Status: Pass
+    |- Execution (ms): 34.33 34.75 34.78 34.26 35.21 | AVG: 34.7
+UVA
+    |- Status: Pass
+    |- Execution: 10 10 10 | AVG: 10
